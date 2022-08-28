@@ -4,3 +4,8 @@ autopep8
 jupytext
 autoflake
 tensorboard>=2.4.0
+pip
+matplotlib
+notebook
+
+-r https://raw.githubusercontent.com/Project-MONAI/MONAI/dev/requirements-dev.txt
